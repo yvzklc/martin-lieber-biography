@@ -15,7 +15,7 @@ body {
 
 .container article{
     text-align: justify;
-    margin: 12px 55px;
+    margin: 12px 7.5rem;
 }
 .container article ul li{
     line-height: 45px;
@@ -24,7 +24,7 @@ h1 {
     font-family: 'Lobster Two', cursive;
     font-weight: bold;
     text-align: center;
-    font-size: 5rem;
+    font-size: 6rem;
 }
 
 h1 span {
@@ -34,6 +34,9 @@ h1 span {
 img {
     width: 16em;
     border-radius: 35px;
+    box-shadow: 6px 2px 250px 46px rgba(232,17,17,0.69);
+    -webkit-box-shadow: 6px 2px 250px 46px rgba(232,17,17,0.69);
+    -moz-box-shadow: 6px 2px 250px 46px rgba(232,17,17,0.69);
 }
 
 .stanlee-img {
