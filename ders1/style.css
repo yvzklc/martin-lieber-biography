@@ -10,16 +10,18 @@ body {
     background-color: rgb(48, 46, 46, 0.815);
     border-radius: 20px;
     margin: 3rem 5.5rem;
-    
+
 }
 
-.container article{
+.container article {
     text-align: justify;
-    margin: 12px 7.5rem;
+    margin: 8px 5rem;
 }
-.container article ul li{
+
+.container article ul li {
     line-height: 45px;
 }
+
 h1 {
     font-family: 'Lobster Two', cursive;
     font-weight: bold;
@@ -34,13 +36,17 @@ h1 span {
 img {
     width: 16em;
     border-radius: 35px;
-    box-shadow: 6px 2px 250px 46px rgba(232,17,17,0.69);
-    -webkit-box-shadow: 6px 2px 250px 46px rgba(232,17,17,0.69);
-    -moz-box-shadow: 6px 2px 250px 46px rgba(232,17,17,0.69);
+    box-shadow: 6px 2px 250px 46px rgba(232, 17, 17, 0.69);
+    -webkit-box-shadow: 6px 2px 250px 46px rgba(232, 17, 17, 0.69);
+    -moz-box-shadow: 6px 2px 250px 46px rgba(232, 17, 17, 0.69);
 }
 
 .stanlee-img {
     text-align: center;
+}
+
+.stanlee-img p {
+    font-size: 1rem;
 }
 
 h2 {
@@ -48,12 +54,14 @@ h2 {
     font-weight: bold;
     color: #Ff0000;
 }
-.container footer{
+
+.container footer {
     text-align: center;
     padding: 0 3rem;
     padding-bottom: 0.3rem;
 }
-.container footer a{
+
+.container footer a {
     border: 2px solid orange;
     background-color: black;
     color: white;
@@ -61,7 +69,8 @@ h2 {
     border-radius: 8px;
     text-decoration: none;
 }
-.container footer a:hover{
- color: red;
- background-color: rgb(48, 46, 46, 0.815);  
+
+.container footer a:hover {
+    color: red;
+    background-color: rgb(48, 46, 46, 0.815);
 }
