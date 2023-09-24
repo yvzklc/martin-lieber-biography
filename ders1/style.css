@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+h1{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+}
+h1 span{
+    color: red;
+}
+h2{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(48, 46, 46, 0.815);
+}
