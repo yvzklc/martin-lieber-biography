@@ -36,10 +36,12 @@ h1 span {
 img {
     width: 16em;
     border-radius: 35px;
-    box-shadow: 6px 2px 250px 46px rgba(232, 17, 17, 0.69);
+    box-shadow: 6px 2px 150px 46px  rgba(232, 17, 17, 0.6) ;
+    /* box-shadow: 6px 2px 250px 46px rgba(232, 17, 17, 0.69);
     -webkit-box-shadow: 6px 2px 250px 46px rgba(232, 17, 17, 0.69);
     -moz-box-shadow: 6px 2px 250px 46px rgba(232, 17, 17, 0.69);
-}
+*/
+} 
 
 .stanlee-img {
     text-align: center;
@@ -73,4 +75,5 @@ h2 {
 .container footer a:hover {
     color: red;
     background-color: rgb(48, 46, 46, 0.815);
+    cursor: pointer;
 }
